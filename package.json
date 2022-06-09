@@ -16,6 +16,8 @@
     "12": "npx nodemon 12_optional_chaining.js",
     "13": "npx nodemon 13_prototypes.js",
     "14": "npx nodemon 14_classes.js",
+    "15": "npx nodemon 15_promise.js",
+    "README.md": "npx nodemon README.md",
     "api-response.js": "npx nodemon api-response.js",
     "index.js": "npx nodemon index.js",
     "nodemon.json": "npx nodemon nodemon.json",
