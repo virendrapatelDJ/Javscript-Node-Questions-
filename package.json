@@ -1,0 +1,24 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "0": "npx nodemon 0_combine.js",
+    "1": "npx nodemon 1_dynamic_keys.js",
+    "2": "npx nodemon 2_destructring.js",
+    "3": "npx nodemon 3_functions.js",
+    "4": "npx nodemon 4_ternary.js",
+    "5": "npx nodemon 5_arrays.js",
+    "6": "npx nodemon 6_code_quality.js",
+    "7": "npx nodemon 7_swap.js",
+    "8": "npx nodemon 8_curry.js",
+    "9": "npx nodemon 9_play_with_api.js",
+    "10": "npx nodemon 10_class_method_pass.js",
+    "12": "npx nodemon 12_optional_chaining.js",
+    "13": "npx nodemon 13_prototypes.js",
+    "14": "npx nodemon 14_classes.js",
+    "api-response.js": "npx nodemon api-response.js",
+    "index.js": "npx nodemon index.js",
+    "nodemon.json": "npx nodemon nodemon.json",
+    "package.json": "npx nodemon package.json"
+  }
+}
